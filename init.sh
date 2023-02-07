@@ -3,6 +3,7 @@
 # # source environment variables for OpenStack and UCD
 # source ~/openrc
 
+
 PATTERN_NAME=jke
 DS_USERNAME=admin
 DS_PASSWORD=admin
